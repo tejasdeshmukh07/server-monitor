@@ -1,4 +1,4 @@
-# Linux Server Monitoring System (Beginner-Friendly)
+# Linux Server Monitoring System 
 
 ## 📌 Project Overview
 
