@@ -146,11 +146,7 @@ This ensures **24/7 monitoring**, just like real NOC systems.
 
 ---
 
-## 👩‍💻 Author
 
-**Poorna N Lutimath**
-Electronics & Communication Engineering
-Aspiring System Engineer / NOC Engineer
 
 ---
 
