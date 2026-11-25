@@ -147,7 +147,4 @@ This ensures **24/7 monitoring**, just like real NOC systems.
 ---
 
 
-
----
-
 ⭐ *This project demonstrates practical Linux monitoring skills used in real IT operations.*
